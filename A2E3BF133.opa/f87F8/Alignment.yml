@@ -1,0 +1,16 @@
+segment_sources:
+  I4722C592:
+    type: origin_type
+    relation: translation
+    language: en
+  I332BF12A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  55e0233b05a641f0b4e838412c36c64f:
+    I4722C592: 7b864b9bd9d34cb29fe2dc83817d90c4
+    I332BF12A: 9f4cc9bfe11841da90cdff846d0f2468
+  588fbff016b84f149cda19096e5733a7:
+    I4722C592: fa2759152eae44e9a347dd397b09e9c6
+    I332BF12A: 43d590c948a14bfc9424c7cc1c5f4e8e

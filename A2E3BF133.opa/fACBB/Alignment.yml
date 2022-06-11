@@ -1,0 +1,26 @@
+segment_sources:
+  I4722C592:
+    type: origin_type
+    relation: translation
+    language: en
+  I81D36A47:
+    type: origin_type
+    relation: translation
+    language: zh
+  I332BF12A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  28ffe58c842641c6b9cc3bbd96c48c32:
+    I4722C592: d59cdfca7fbb4861bc8ae177e6ebe33b
+    I81D36A47: 4355c125108e439eb4a04ef8bb2edc3e
+    I332BF12A: 7066709071a447c19245e591b206a884
+  9c3d106885804d3eb9ed88ce03a3dc4a:
+    I4722C592: eba51ee1cbb94860bc7ab863590eeca6
+    I81D36A47: 45f6c03f7acb42c2974ed912dbfc9c36
+    I332BF12A: 91db69f248494a7b880c25f9793004c8
+  6d8054b4f80f492a854f131007aee4f2:
+    I4722C592: f6417ce3ae224ef899cb7a62ecb6d6d8
+    I81D36A47: ae914f943a814d70b60411e8db9d2aad
+    I332BF12A: 0f80925d421f44739894e8ede66bf8b8
